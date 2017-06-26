@@ -1,0 +1,19 @@
+{
+  "name": "cowme-page",
+  "version": "1.0.0",
+  "description": "cowme landing page",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marquesgabriel/cowme-page.git"
+  },
+  "author": "marquesgabriel",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/marquesgabriel/cowme-page/issues"
+  },
+  "homepage": "https://github.com/marquesgabriel/cowme-page#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
