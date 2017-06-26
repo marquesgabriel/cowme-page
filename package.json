@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "cowme landing page",
   "main": "main.js",
+  "scripts":{
+    "start": "node main.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marquesgabriel/cowme-page.git"
